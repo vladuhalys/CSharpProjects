@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpProjects", "CSharpProjects\CSharpProjects.csproj", "{086B80B6-9124-4BF4-8E4E-7F75AEDFFC05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{AF5B2B7A-F527-40A2-822A-1C45FD60ADD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{77232EB4-45A0-475C-BE22-AD5B37B2664B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086B80B6-9124-4BF4-8E4E-7F75AEDFFC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086B80B6-9124-4BF4-8E4E-7F75AEDFFC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086B80B6-9124-4BF4-8E4E-7F75AEDFFC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086B80B6-9124-4BF4-8E4E-7F75AEDFFC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77232EB4-45A0-475C-BE22-AD5B37B2664B} = {AF5B2B7A-F527-40A2-822A-1C45FD60ADD0}
+	EndGlobalSection
+EndGlobal
