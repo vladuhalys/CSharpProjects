@@ -6,6 +6,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{77232EB4-45A0-475C-BE22-AD5B37B2664B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DelegatesAndEvents", "DelegatesAndEvents", "{A8497604-9C72-4FE1-B96A-BB06402151A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{7299ECB3-A100-495E-964A-905326F863F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{F39F18E6-426E-4B05-AC79-F83637395E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +26,18 @@ Global
 		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77232EB4-45A0-475C-BE22-AD5B37B2664B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7299ECB3-A100-495E-964A-905326F863F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7299ECB3-A100-495E-964A-905326F863F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7299ECB3-A100-495E-964A-905326F863F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7299ECB3-A100-495E-964A-905326F863F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39F18E6-426E-4B05-AC79-F83637395E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39F18E6-426E-4B05-AC79-F83637395E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39F18E6-426E-4B05-AC79-F83637395E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39F18E6-426E-4B05-AC79-F83637395E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{77232EB4-45A0-475C-BE22-AD5B37B2664B} = {AF5B2B7A-F527-40A2-822A-1C45FD60ADD0}
+		{7299ECB3-A100-495E-964A-905326F863F6} = {A8497604-9C72-4FE1-B96A-BB06402151A9}
+		{F39F18E6-426E-4B05-AC79-F83637395E75} = {A8497604-9C72-4FE1-B96A-BB06402151A9}
 	EndGlobalSection
 EndGlobal

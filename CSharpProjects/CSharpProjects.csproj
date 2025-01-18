@@ -9,6 +9,8 @@
 
     <ItemGroup>
       <ProjectReference Include="..\CreationalPatterns\CreationalPatterns.csproj" />
+      <ProjectReference Include="..\Delegates\Delegates.csproj" />
+      <ProjectReference Include="..\Events\Events.csproj" />
     </ItemGroup>
 
 </Project>
